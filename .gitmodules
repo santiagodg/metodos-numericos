@@ -1,3 +1,6 @@
 [submodule "lagrange"]
 	path = lagrange
 	url = https://gist.github.com/1f7285c96a8e84f1402ede2b620ab831.git
+[submodule "montante"]
+	path = montante
+	url = https://gist.github.com/dab402e4b7e9ab5a7a78fbdaffb9aaa1.git
